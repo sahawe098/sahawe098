@@ -52,7 +52,7 @@ with col1 :
 
 #1a
     with soal1a:
-        st.markdown("<h2 style='text-align: left; color: red;'> Grafik jumla hproduksi minyak mentah </h2>", unsafe_allow_html=True)
+        st.markdown("<h2 style='text-align: left; color: red;'> Grafik jumlah produksi minyak mentah </h2>", unsafe_allow_html=True)
         option = st.selectbox(
             "",
             nation_name
