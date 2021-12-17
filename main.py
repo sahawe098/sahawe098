@@ -45,8 +45,8 @@ soal1c = st.container()
 soal1d = st.container()
 with col1 :
 
-    st.markdown("<h1 style='text-align: left; color: red;'> Andhika M Rizky</h1>", unsafe_allow_html=True)
-    st.markdown("<h2 style='text-align: left; color: red;'> 12220052</h2>", unsafe_allow_html=True)
+    st.markdown("<h1 style='text-align: left; color: red;'> Data Base Produksi Minyak Mentah </h1>", unsafe_allow_html=True)
+    st.markdown("<h2 style='text-align: left; color: red;'> Andhika M Rizky </h2>", unsafe_allow_html=True)
     image = Image.open('images.jpg')
     st.image(image, width=200)
 
